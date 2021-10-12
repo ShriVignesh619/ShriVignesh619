@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ShriVignesh
-- 👀 I’m interested in Web Development.
+- 👋 Hi, I’m Vignesh
+- 👀 I’m interested in AWS and JAVA.
 
 <!---
 ShriVignesh619/ShriVignesh619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
